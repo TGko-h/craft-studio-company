@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find \"/mnt/c/Users/togas/OneDrive/添付ファイル/AIで新しい会社作る\" -type f 2>/dev/null)",
+      "Read(//mnt/c/Users/togas/OneDrive/添付ファイル/**)"
+    ]
+  }
+}
